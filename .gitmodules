@@ -1,0 +1,3 @@
+[submodule "test_gert_submodule_l2"]
+	path = test_gert_submodule_l2
+	url = https://github.com/pokyah/test_gert_submodule_l2.git
